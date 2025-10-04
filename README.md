@@ -4,3 +4,36 @@ The objective of this project is to design and develop an interactive Super Stor
 
 ## Dataset Used
 - <a href="https://github.com/Sayali801/-Sales-Analysis-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx">SuperStore Sales Data
+
+##  Problem Statements
+o	What is the total sales and profit achieved by the Super Store?
+o	Which months show the highest and lowest sales performance?
+o	How does sales performance vary year-over-year (YoY)?
+o	Which region contributes the most to total sales and profit?
+o	Which customer segment drives the most revenue?
+o	How does profit margin differ across these segments?
+o	Which product category generates the highest sales and profit?
+o	What are the top-performing sub-categories (e.g., Phones, Chairs, Binders)?
+o	Which shipping mode is most commonly used and generates the highest sales?
+o	How do delivery days impact overall sales and customer satisfaction?
+o	Which payment method is most preferred by customers?
+o	Which states have the highest sales and profit levels?
+
+## Dashboard
+
+## Insight
+•	Consumer segment dominates sales compared to Corporate and Home Office.
+•	COD and Online payments are the most preferred payment modes.
+•	West and East regions contribute more to overall sales than Central and South.
+•	Monthly sales and profits show a growing trend towards the end of the year.
+•	Standard shipping is the most commonly used delivery mode.
+•	Phones, Chairs, and Binders are top-selling subcategories.
+•	Office Supplies lead category sales, followed by Technology and Furniture.
+•	Sales are concentrated in certain states, indicating regional hotspots for business.
+
+## Conclusion
+•	The business shows steady growth with strong performance in the Consumer segment and Western region.
+•	Focus on high-demand products like Office Supplies and Phones can further boost revenue.
+•	Encouraging online payments and improving faster shipping options could enhance customer satisfaction and profit margins.
+•	Overall, the store demonstrates positive sales momentum and strong year-end performance.
+
