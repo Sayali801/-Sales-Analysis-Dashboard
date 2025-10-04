@@ -20,20 +20,21 @@ The objective of this project is to design and develop an interactive Super Stor
 - Which states have the highest sales and profit levels?
 
 ## Dashboard
+<img width="617" height="349" alt="Dashboard image" src="https://github.com/user-attachments/assets/440fbd02-52a0-4841-a5fd-0fb78aef3aec" />
 
 ## Insight
-•	Consumer segment dominates sales compared to Corporate and Home Office.
-•	COD and Online payments are the most preferred payment modes.
-•	West and East regions contribute more to overall sales than Central and South.
-•	Monthly sales and profits show a growing trend towards the end of the year.
-•	Standard shipping is the most commonly used delivery mode.
-•	Phones, Chairs, and Binders are top-selling subcategories.
-•	Office Supplies lead category sales, followed by Technology and Furniture.
-•	Sales are concentrated in certain states, indicating regional hotspots for business.
+-	Consumer segment dominates sales compared to Corporate and Home Office.
+-	COD and Online payments are the most preferred payment modes.
+-	West and East regions contribute more to overall sales than Central and South.
+-	Monthly sales and profits show a growing trend towards the end of the year.
+-	Standard shipping is the most commonly used delivery mode.
+-	Phones, Chairs, and Binders are top-selling subcategories.
+-	Office Supplies lead category sales, followed by Technology and Furniture.
+-	Sales are concentrated in certain states, indicating regional hotspots for business.
 
 ## Conclusion
-•	The business shows steady growth with strong performance in the Consumer segment and Western region.
-•	Focus on high-demand products like Office Supplies and Phones can further boost revenue.
-•	Encouraging online payments and improving faster shipping options could enhance customer satisfaction and profit margins.
-•	Overall, the store demonstrates positive sales momentum and strong year-end performance.
+-	The business shows steady growth with strong performance in the Consumer segment and Western region.
+-	Focus on high-demand products like Office Supplies and Phones can further boost revenue.
+-	Encouraging online payments and improving faster shipping options could enhance customer satisfaction and profit margins.
+-	Overall, the store demonstrates positive sales momentum and strong year-end performance.
 
