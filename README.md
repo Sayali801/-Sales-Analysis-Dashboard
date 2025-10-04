@@ -6,18 +6,18 @@ The objective of this project is to design and develop an interactive Super Stor
 - <a href="https://github.com/Sayali801/-Sales-Analysis-Dashboard/blob/main/SuperStore%20Sales%20DataSet.xlsx">SuperStore Sales Data
 
 ##  Problem Statements
-o	What is the total sales and profit achieved by the Super Store?
-o	Which months show the highest and lowest sales performance?
-o	How does sales performance vary year-over-year (YoY)?
-o	Which region contributes the most to total sales and profit?
-o	Which customer segment drives the most revenue?
-o	How does profit margin differ across these segments?
-o	Which product category generates the highest sales and profit?
-o	What are the top-performing sub-categories (e.g., Phones, Chairs, Binders)?
-o	Which shipping mode is most commonly used and generates the highest sales?
-o	How do delivery days impact overall sales and customer satisfaction?
-o	Which payment method is most preferred by customers?
-o	Which states have the highest sales and profit levels?
+What is the total sales and profit achieved by the Super Store?
+Which months show the highest and lowest sales performance?
+How does sales performance vary year-over-year (YoY)?
+Which region contributes the most to total sales and profit?
+Which customer segment drives the most revenue?
+How does profit margin differ across these segments?
+Which product category generates the highest sales and profit?
+What are the top-performing sub-categories (e.g., Phones, Chairs, Binders)?
+Which shipping mode is most commonly used and generates the highest sales?
+How do delivery days impact overall sales and customer satisfaction?
+Which payment method is most preferred by customers?
+Which states have the highest sales and profit levels?
 
 ## Dashboard
 
