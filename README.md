@@ -22,7 +22,7 @@ The objective of this project is to design and develop an interactive Super Stor
 ## Dashboard
 <img width="617" height="349" alt="Dashboard image" src="https://github.com/user-attachments/assets/440fbd02-52a0-4841-a5fd-0fb78aef3aec" />
 
-## Insight
+## Project Insight
 -	Consumer segment dominates sales compared to Corporate and Home Office.
 -	COD and Online payments are the most preferred payment modes.
 -	West and East regions contribute more to overall sales than Central and South.
